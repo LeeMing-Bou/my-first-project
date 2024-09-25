@@ -23,7 +23,7 @@
                       I am working on this project.
                     </h1>
                     <p>
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam accusantium soluta, tempore, repudiandae expedita possimus tempora exercitationem cupiditate voluptatem facere est aliquid reiciendis minus nostrum a ipsum laboriosam, molestiae impedit.
+                      This is my first project that I am working on.!
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1"> Read More </a>
