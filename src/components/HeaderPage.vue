@@ -20,7 +20,7 @@
                   <div class="detail-box">
                     <h1>
                       Dear Team, I would like to push my code into GitHub now. Thanks <br />
-                      Currency
+                      I am working on this project.
                     </h1>
                     <p>
                       Explicabo esse amet tempora quibusdam laudantium, laborum
