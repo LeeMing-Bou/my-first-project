@@ -18,10 +18,8 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="detail-box">
-                    <h1>
-                      Dear Team! I would like to inform you that I have updated some logic on the source code on 
-                      <span style="color: brown;">"HeaderPage.vue"</span> Thank you. Team
-                    </h1>
+                    <p>Dear Team! I would like to inform you that I have updated some logic on the source code on</p>  
+                      <span style="color: brown; font-size: 2rem;">"HeaderPage.vue" Thank you. Team</span> 
                     <div class="btn-box">
                       <a href="" class="btn1"> Read More </a>
                     </div>
