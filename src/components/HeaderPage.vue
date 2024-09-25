@@ -19,12 +19,9 @@
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Dear Team, I would like to push my code into GitHub now. Thanks <br />
-                      I am working on this project.
+                      Dear Team! I would like to inform you that I have updated some logic on the source code on 
+                      <span style="color: brown;">"HeaderPage.vue"</span> Thank you. Team
                     </h1>
-                    <p>
-                      This is my first project that I am working on. <span style="color:brown;">Dear!! I am Testing on this project</span>
-                    </p>
                     <div class="btn-box">
                       <a href="" class="btn1"> Read More </a>
                     </div>
