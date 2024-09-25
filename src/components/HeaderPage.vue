@@ -23,10 +23,7 @@
                       I am working on this project.
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum
-                      eaque magnam fugiat hic? Esse dicta aliquid error
-                      repudiandae earum suscipit fugiat molestias, veniam, vel
-                      architecto veritatis delectus repellat modi impedit sequi.
+                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam accusantium soluta, tempore, repudiandae expedita possimus tempora exercitationem cupiditate voluptatem facere est aliquid reiciendis minus nostrum a ipsum laboriosam, molestiae impedit.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1"> Read More </a>
